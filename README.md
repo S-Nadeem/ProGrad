@@ -50,6 +50,10 @@ We don't think it's fair to ask you to build something with a UI, as we know thi
 
 **Answer**: _[https://trailerflix-ab9c6.web.app/]_
 
+I have added the testcases in my repo  please find the below link of repo
+
+https://github.com/S-Nadeem/TrailerFlix__.git
+
 **Task**: Tell us about the biggest challenge you faced in building the above.
 
 **Answer**: When i'm creating this application i was trying to learn Styled components and so that caused some confusion in creating new styled components and this website was diployed in firebase. When deploying the website to firebase it keeping on rejecting build folder and trying to take firebase index.html. So after searching and trying different methods i can able to deploy that website.
